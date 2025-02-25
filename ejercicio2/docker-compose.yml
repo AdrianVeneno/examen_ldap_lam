@@ -1,5 +1,8 @@
+
+version: '3'
+
 services:
-    db:
+    martibd:
         image: mariadb:10
         volumes:
             - data:/var/lib/mysql
@@ -8,19 +11,6 @@ services:
             - MYSQL_DATABASE=wordpress
             - MYSQL_USER=manager
             - MYSQL_PASSWORD=secret
-    web:
-        image: wordpress:6
-        depends_on:
-            - db
-        volumes:
-            - ./target:/var/www/html
-        environment:
-            - WORDPRESS_DB_USER=manager
-            - WORDPRESS_DB_PASSWORD=secret
-            - WORDPRESS_DB_HOST=db
-            - WORDPRESS_DB_NAME=wordpress
-        ports:
-            - 8080:80
 
 volumes:
     data:
