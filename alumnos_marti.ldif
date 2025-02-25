@@ -1,0 +1,220 @@
+# Student 1 in class 1ESOC
+dn: uid=alumno1,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno1
+sn: Student1
+givenName: Alumno1
+cn: Alumno1 Student
+mail: alumno1@example.com
+ou: 1ESOC
+
+# Student 2 in class 1ESOC
+dn: uid=alumno2,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno2
+sn: Student2
+givenName: Alumno2
+cn: Alumno2 Student
+mail: alumno2@example.com
+ou: 1ESOC
+
+# Student 3 in class 1ESOC
+dn: uid=alumno3,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno3
+sn: Student3
+givenName: Alumno3
+cn: Alumno3 Student
+mail: alumno3@example.com
+ou: 1ESOC
+
+# Student 4 in class 1ESOC
+dn: uid=alumno4,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno4
+sn: Student4
+givenName: Alumno4
+cn: Alumno4 Student
+mail: alumno4@example.com
+ou: 1ESOC
+
+# Student 5 in class 1ESOC
+dn: uid=alumno5,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno5
+sn: Student5
+givenName: Alumno5
+cn: Alumno5 Student
+mail: alumno5@example.com
+ou: 1ESOC
+
+# Student 6 in class 1ESOC
+dn: uid=alumno6,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno6
+sn: Student6
+givenName: Alumno6
+cn: Alumno6 Student
+mail: alumno6@example.com
+ou: 1ESOC
+
+# Student 7 in class 1ESOC
+dn: uid=alumno7,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno7
+sn: Student7
+givenName: Alumno7
+cn: Alumno7 Student
+mail: alumno7@example.com
+ou: 1ESOC
+
+# Student 8 in class 1ESOC
+dn: uid=alumno8,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno8
+sn: Student8
+givenName: Alumno8
+cn: Alumno8 Student
+mail: alumno8@example.com
+ou: 1ESOC
+
+# Student 9 in class 1ESOC
+dn: uid=alumno9,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno9
+sn: Student9
+givenName: Alumno9
+cn: Alumno9 Student
+mail: alumno9@example.com
+ou: 1ESOC
+
+# Student 10 in class 1ESOC
+dn: uid=alumno10,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno10
+sn: Student10
+givenName: Alumno10
+cn: Alumno10 Student
+mail: alumno10@example.com
+ou: 1ESOC
+
+# Student 11 in class 1ESOC
+dn: uid=alumno11,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno11
+sn: Student11
+givenName: Alumno11
+cn: Alumno11 Student
+mail: alumno11@example.com
+ou: 1ESOC
+
+# Student 12 in class 1ESOC
+dn: uid=alumno12,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno12
+sn: Student12
+givenName: Alumno12
+cn: Alumno12 Student
+mail: alumno12@example.com
+ou: 1ESOC
+
+# Student 13 in class 1ESOC
+dn: uid=alumno13,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno13
+sn: Student13
+givenName: Alumno13
+cn: Alumno13 Student
+mail: alumno13@example.com
+ou: 1ESOC
+
+# Student 14 in class 1ESOC
+dn: uid=alumno14,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno14
+sn: Student14
+givenName: Alumno14
+cn: Alumno14 Student
+mail: alumno14@example.com
+ou: 1ESOC
+
+# Student 15 in class 1ESOC
+dn: uid=alumno15,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno15
+sn: Student15
+givenName: Alumno15
+cn: Alumno15 Student
+mail: alumno15@example.com
+ou: 1ESOC
+
+# Student 16 in class 1ESOC
+dn: uid=alumno16,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno16
+sn: Student16
+givenName: Alumno16
+cn: Alumno16 Student
+mail: alumno16@example.com
+ou: 1ESOC
+
+# Student 17 in class 1ESOC
+dn: uid=alumno17,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno17
+sn: Student17
+givenName: Alumno17
+cn: Alumno17 Student
+mail: alumno17@example.com
+ou: 1ESOC
+
+# Student 18 in class 1ESOC
+dn: uid=alumno18,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno18
+sn: Student18
+givenName: Alumno18
+cn: Alumno18 Student
+mail: alumno18@example.com
+ou: 1ESOC
+
+# Student 19 in class 1ESOC
+dn: uid=alumno19,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno19
+sn: Student19
+givenName: Alumno19
+cn: Alumno19 Student
+mail: alumno19@example.com
+ou: 1ESOC
+
+# Student 20 in class 1ESOC
+dn: uid=alumno20,ou=1ESOC,dc=marti,dc=org
+changetype: add
+objectClass: inetOrgPerson
+uid: alumno20
+sn: Student20
+givenName: Alumno20
+cn: Alumno20 Student
+mail: alumno20@example.com
+ou: 1ESOC
+
